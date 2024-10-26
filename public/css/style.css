@@ -1,0 +1,20 @@
+.table th,
+.table td {
+    vertical-align: middle; /* Rata tengah konten sel */
+}
+
+.btn {
+    transition: background-color 0.3s; /* Transisi saat hover */
+}
+
+.btn:hover {
+    opacity: 0.8; /* Efek saat hover */
+}
+
+body {
+    background-color: #f8f9fa; /* Warna latar belakang */
+}
+
+.navbar {
+    margin-bottom: 20px; /* Jarak bawah navbar */
+}
